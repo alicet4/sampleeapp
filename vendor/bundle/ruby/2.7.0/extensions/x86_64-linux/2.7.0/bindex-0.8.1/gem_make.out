@@ -1,0 +1,15 @@
+current directory: /home/vand0s/labs/sampleeapp/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+/usr/local/rvm/rubies/ruby-2.7.2/bin/ruby -I /usr/local/rvm/rubies/ruby-2.7.2/lib/ruby/site_ruby/2.7.0 -r ./siteconf20211210-5433-1frdf4s.rb extconf.rb
+creating Makefile
+
+current directory: /home/vand0s/labs/sampleeapp/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /home/vand0s/labs/sampleeapp/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/vand0s/labs/sampleeapp/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+/usr/bin/install -m 0755 cruby.so ./.gem.20211210-5433-mbizkf/skiptrace/internal
